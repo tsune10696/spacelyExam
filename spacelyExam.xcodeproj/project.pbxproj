@@ -41,8 +41,6 @@
 		2861B2AE2742B1240026CBF6 /* Environment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Environment.swift; sourceTree = "<group>"; };
 		C7A9F6A3297CF79A00F940DA /* APIkeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIkeys.swift; sourceTree = "<group>"; };
 		C7A9F6A6297CFE1F00F940DA /* SearchDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchDetailView.swift; sourceTree = "<group>"; };
-		C7A9F6AB297D71CB00F940DA /* LPColorUI */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = LPColorUI; path = ../../../../../LPColorUI; sourceTree = "<group>"; };
-		C7A9F6AC297D723500F940DA /* Pexels-Swift */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = "Pexels-Swift"; path = "../../../../../Pexels-Swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,7 +82,6 @@
 				C7A9F6A5297CFA2500F940DA /* ViewModel */,
 				2861B2A42742AF180026CBF6 /* Extensions */,
 				28506CED2742485800EDA33E /* Assets.xcassets */,
-				C7A9F6A9297D719700F940DA /* Packages */,
 				28506CEF2742485900EDA33E /* Preview Content */,
 			);
 			path = spacelyExam;
@@ -150,15 +147,6 @@
 				28506CF727424A9700EDA33E /* ViewModel.swift */,
 			);
 			path = ViewModel;
-			sourceTree = "<group>";
-		};
-		C7A9F6A9297D719700F940DA /* Packages */ = {
-			isa = PBXGroup;
-			children = (
-				C7A9F6AC297D723500F940DA /* Pexels-Swift */,
-				C7A9F6AB297D71CB00F940DA /* LPColorUI */,
-			);
-			path = Packages;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

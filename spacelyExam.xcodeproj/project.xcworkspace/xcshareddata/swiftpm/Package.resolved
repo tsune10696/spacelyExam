@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "lpcolorui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lukepistrol/LPColorUI",
+      "state" : {
+        "revision" : "32e8466e7b99a2254edc8e70023b09eb4b374cfc",
+        "version" : "1.1.4"
+      }
+    },
+    {
+      "identity" : "pexels-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lukepistrol/Pexels-Swift",
+      "state" : {
+        "revision" : "f5c36de8f55b99eb8d6b0ef48d7944c54504759d",
+        "version" : "0.9.4"
+      }
+    },
+    {
+      "identity" : "swiftlintplugin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lukepistrol/SwiftLintPlugin.git",
+      "state" : {
+        "revision" : "f69b412a765396d44dc9f4788a5b79919c1ca9e3",
+        "version" : "0.2.2"
+      }
+    }
+  ],
+  "version" : 2
+}
